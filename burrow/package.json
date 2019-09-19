@@ -1,0 +1,22 @@
+{
+  "name": "burrow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "await-exec": "^0.1.2",
+    "body-parser": "^1.8.1",
+    "express": "^4.15.2",
+    "node-cmd": "^3.0.0",
+    "socket.io": "^2.2.0"
+  }
+}

@@ -1,0 +1,7 @@
+jobs:
+
+name: SensorData deploy:
+
+ 
+
+contract: SensorData.sol
